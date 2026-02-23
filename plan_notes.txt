@@ -1,0 +1,73 @@
+1. Purpose: What is this page about? (topic/theme). You can choose to create a page about a topic
+of personal interest (e.g., a hobby, place, organization, cause, or project), a fictional company or
+product, or a simple informational page (e.g., “About Me,” “Course Resources,” or “Travel Guide”).
+The topic should give you enough content to fill all required sections of the page
+
+    The web page will be an informational travel guide about Kalamazoo, Michigan.
+    The purpose is to introduce visitors to the city, highlight key attractions, provide historical 
+    background, and showcase local culture, entertainment, and outdoor activities. 
+    The page will be for people who want to learn about Kalamazoo.
+
+2. Audience: Who do you think the primary audience for this web page will be? Why?
+
+The primary audience:
+    1. Tourists
+    2. New residents
+    3. Students
+
+    This audience is appropriate because they are most likely to search for general information about 
+    the attractions, activities, and features of Kalamazoo before visiting/moving there.
+
+
+3. Content inventory: What text and images will you include? You should choose content that matches
+the purpose of your website. The table below shows where the content will be displayed once we
+apply the CSS. You should complete the following sections adding the text that will be displayed
+and the name of the image that will be used e.g., mountans.jpeg
+
+    Header/ Hero Section	
+        “Welcome to Kalamazoo, Michigan – A vibrant city known for its craft breweries, live music, 
+        outdoor recreation, and rich history in Southwest Michigan.”	
+        
+        kalamazoo_skyline.jpg
+
+    About Kalamazoo	
+        Kalamazoo is located in Southwest Michigan and is home to Western Michigan University. 
+        Founded in 1831, the city has grown into a cultural and educational hub known for innovation, 
+        healthcare, and manufacturing.	
+        
+        downtown_kalamazoo.jpg
+
+    History of Kalamazoo 
+        became famous in the 19th century for celery farming and later for its paper production industry. 
+        The city also played a role in early automobile manufacturing.	
+        
+        kalamazoo_historic.jpg
+
+    Top Attractions	
+        Popular attractions include the Kalamazoo Air Zoo Aerospace & Science Museum, Kalamazoo Institute 
+        of Arts, Kalamazoo Mall (one of the first outdoor pedestrian malls in the U.S.), and Bell’s Brewery.	
+        
+        air_zoo.jpg
+
+    Outdoor Activities	
+        Visitors can enjoy hiking and biking on the Kalamazoo River Valley Trail, exploring local parks, 
+        and kayaking along the Kalamazoo River.	
+        
+        kalamazoo_trail.jpg
+
+    Education	
+        Western Michigan University and Kalamazoo College bring a strong academic presence and student 
+        life to the city. 
+        
+        wmu_campus.jpg
+
+    Events & Culture	
+        Kalamazoo hosts events such as the Kalamazoo Blues Festival, Art Hop, and local farmers markets, 
+        offering a lively arts and music scene year-round.	
+        
+        blues_festival.jpg
+
+    Footer / Contact Info	
+        “Plan your visit to Kalamazoo and experience a unique blend of history, culture, and community.”	
+        
+        kalamazoo_night.jpg
